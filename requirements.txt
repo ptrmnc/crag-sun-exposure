@@ -1,0 +1,15 @@
+certifi==2026.7.22
+charset-normalizer==3.5.2
+h5py==3.16.0
+idna==3.20
+numpy==2.2.6
+pandas==2.3.3
+pvlib==0.15.2
+python-dateutil==2.9.0.post0
+pytz==2026.5
+requests==2.34.2
+scipy==1.15.3
+six==1.17.0
+tzdata==2026.5
+tzfpy==2.1.0
+urllib3==2.8.0
